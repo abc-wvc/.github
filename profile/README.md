@@ -8,3 +8,6 @@ Any major, no experience needed. Watch or build, your pace.
 - **Member projects:** https://abc-wvc.github.io (add yours with a pull request to [abc-wvc.github.io](https://github.com/abc-wvc/abc-wvc.github.io))
 - **Discord:** https://discord.gg/h99K887zd4
 - **Instagram:** [@abc.wvc](https://www.instagram.com/abc.wvc/)
+- **TikTok:** [@abc.wvc](https://www.tiktok.com/@abc.wvc)
+- **YouTube:** [@abc-wvc](https://www.youtube.com/@abc-wvc)
+- **All our links:** https://linktr.ee/abc.wvc.club
